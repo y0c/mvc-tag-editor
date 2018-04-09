@@ -1,0 +1,31 @@
+#tagEditor {
+    width: 500px;
+    margin: 150px auto;
+    overflow: hidden;
+    padding: 30px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px #ddd;
+}
+
+.tagInput {
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.tagList {
+    margin: 20px 0;
+    overflow: hidden;
+}
+
+.tagListItem {
+    display: inline-block;
+    padding: 5px;
+    border: 1px solid #ecc7c7;
+    margin: 3px;
+    background: #ff8080;
+    color: white;
+    border-radius: 5px;
+}
